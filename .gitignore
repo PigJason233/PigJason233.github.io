@@ -1,0 +1,4 @@
+# Local tooling (gh CLI, TLS helper certs, OAuth tokens)
+.tools/
+node_modules/
+*.log
